@@ -1,7 +1,4 @@
 This is one demo for collaboration Project - By Dr. Vinay
 Hello Everyone :) - Shashank Sinha
-<<<<<<< HEAD
 Hello I am Pawan.
-=======
-Just for demo - Harshita Gour
->>>>>>> b149273b37f99b72775c54e19bd1ab99a619947b
+This is a test for the new branch by Shashank :O
